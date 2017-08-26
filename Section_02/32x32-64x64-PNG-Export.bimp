@@ -1,0 +1,28 @@
+#BIMP 1.18
+#MANIPULATION SET DEFINITION
+
+[RESIZE]
+new_w_pc=100
+new_h_pc=100
+new_w_px=64
+new_h_px=64
+resize_mode=1
+stretch_mode=1
+padding_color=#000000000000
+padding_color_alpha=65535
+interpolation=0
+change_res=false
+new_res_x=72
+new_res_y=72
+
+[CHANGEFORMAT]
+format=4
+interlace=false
+compression=9
+savebgc=true
+savegamma=false
+saveoff=false
+savephys=true
+savetime=true
+savecomm=true
+savetrans=true
